@@ -1,0 +1,2 @@
+New simple shell project
+@
